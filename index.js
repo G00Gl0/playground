@@ -1,3 +1,3 @@
-exports.helloWorld = (req, res) => {
+exports.foobar = (req, res) => {
     res.send('u suck, Hello, World');
   };
