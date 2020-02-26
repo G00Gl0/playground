@@ -3,6 +3,6 @@ steps:
   args:
   - functions
   - deploy
-  - helloWorld
+  - foobar
   - --source=.
   - --trigger-http
