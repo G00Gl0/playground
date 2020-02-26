@@ -4,5 +4,7 @@ steps:
   - functions
   - deploy
   - foobar
+  - --runtime=nodejs8
   - --source=.
   - --trigger-http
+  id: 'foobar'
